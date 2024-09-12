@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanm50&label=Profile%20views&color=0e75b6&style=flat" alt="adnanm50" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnanm50" alt="adnanm50" /></a> </p>
+<p align="left"> <a href="https://twitter.com/md_adnan88" target="blank"><img src="https://img.shields.io/twitter/follow/md_adnan88?logo=twitter&style=for-the-badge" alt="md_adnan88" /></a> </p>
 
 
 
